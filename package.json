@@ -1,0 +1,13 @@
+{
+  "name": "min-repo-sanity-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sanity-typed/types": "^1.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sanity": "^3.12.0",
+    "typescript": "^5.1.3"
+  }
+}
